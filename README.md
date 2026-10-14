@@ -1,6 +1,6 @@
-# ECHO — Relationship Copilot
+# ECHO
 
-ECHO is an early-stage prototype for keeping relationship context and follow-ups in one place. It brings together contact notes, conversation history, saved memories, reminders, and optional AI-assisted writing.
+ECHO is an early-stage prototype for organizing contact details, conversation context, saved notes, reminders, and follow-ups.
 
 ## What the prototype includes
 
@@ -29,4 +29,4 @@ To enable Gemini-backed responses, copy `.env.example` to `.env` and set `GEMINI
 
 ## Project status
 
-This is a functional prototype, not a production relationship-management service. Authentication, data export/backup, privacy controls, external chat syncing, and deployment hardening are not implemented. The checked-in Cloudflare and Netlify files are deployment scaffolding only; no public deployment has been verified.
+This is a functional prototype, not a production service. Authentication, data export/backup, privacy controls, external chat syncing, and deployment hardening are not implemented. The checked-in Cloudflare and Netlify files are deployment scaffolding only; no public deployment has been verified.
